@@ -1,0 +1,14 @@
+.sidenavlayout{
+display: flex;
+flex-direction: column;
+width: 70px;
+background-color: rgb(40, 40, 40);
+justify-content: space-between;
+height: 100vh;
+align-items: center;
+}
+
+.icons{
+    padding: 20px;
+
+}
